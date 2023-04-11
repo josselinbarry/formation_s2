@@ -39,4 +39,4 @@ vignettes/*.pdf
 .Renviron
 
 # Repertoire donnees oison
-/data/oison/
+/oison/
